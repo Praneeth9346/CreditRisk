@@ -49,7 +49,7 @@ CreditRisk/
 1. Clone the Repository
 Bash
 
-git clone [https://github.com/](https://github.com/)[YourUsername]/CreditRisk.git
+git clone https://github.com/Praneeth9346/CreditRisk.git
 cd CreditRisk
 2. Install Dependencies
 Bash
